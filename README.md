@@ -1,3 +1,4 @@
+<div align=left><h1>📊 Stats</h1></div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div align=left><h1>📚 STACKS</h1></div>
 
