@@ -1,9 +1,9 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kodari385)](https://solved.ac/kodari385)
-
 <div align=left><h1>📊 Stats</h1></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKo&show_icons=true&theme=radical)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kodari385)](https://solved.ac/{kodari385)
 
 <div align=left><h1>📚 STACKS</h1></div>
 
