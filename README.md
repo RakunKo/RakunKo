@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=huncher00@naver.com)](https://solved.ac/huncher00@naver.com)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kodari385)](https://solved.ac/kodari385)
 
 <div align=left><h1>📊 Stats</h1></div>
 
