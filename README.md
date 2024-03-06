@@ -1,4 +1,4 @@
-# Ko Hyun Cheol 😉
+# Ko Hyun Cheol 
 
 <div align=left><h1>📊 Stats</h1></div>
 
