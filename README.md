@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=huncher00)](https://solved.ac/huncher00/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=huncher00@naver.com)](https://solved.ac/huncher00@naver.com/)
 
 <div align=left><h1>📊 Stats</h1></div>
 
