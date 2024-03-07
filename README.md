@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=KoHyunCheol&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Ko%20Hyun%20Cheol&fontSize=60)
 
 <div align=left><h1>📊 Stats</h1></div>
 
