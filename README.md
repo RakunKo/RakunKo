@@ -4,7 +4,7 @@
 
 <div align=center><h1>📊 Stats</h1></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKo&show_icons=true&theme=transparent)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kodari385)](https://solved.ac/{kodari385)
