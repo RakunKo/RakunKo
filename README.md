@@ -2,16 +2,16 @@
   
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Ko%20Hyun%20Cheol&fontSize=60)
 
-<div align=left><h1>📊 Stats</h1></div>
+<div align=center><h1>📊 Stats</h1></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKo&show_icons=true&theme=radical)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kodari385)](https://solved.ac/{kodari385)
 
-<div align=left><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 STACKS</h1></div>
 
-<div align=left> 
+<div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
