@@ -1,3 +1,4 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Ko%20Hyun%20Cheol&fontSize=60)
 
 <div align=left><h1>📊 Stats</h1></div>
@@ -29,4 +30,5 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+</div>
 </div>
