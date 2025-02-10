@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Ko%20Hyun%20Cheol&fontSize=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RakunKo&fontSize=50&fontColor=FFFFFF&fontAlignY=40)
 
 <div align=center><h1>📊 Stats</h1></div>
 
