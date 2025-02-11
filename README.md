@@ -15,7 +15,7 @@
 ![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 ## 📊 Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKon&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKn&show_icons=true&theme=transparent)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kodari385)](https://solved.ac/{kodari385)
