@@ -29,5 +29,5 @@
 - AAC Best Practice Contest : Excellence Award 🏅
 
 ## 👀 Contact
-- [@Tstory Tech Blog](https://rakunko.tistory.com/)
-- [@Email](hgo84064@gmail.com)
+- [Tstory Tech Blog](https://rakunko.tistory.com/)
+- [Email](hgo84064@gmail.com)
