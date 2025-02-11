@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=&logoColor=white)
 
-![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
 
 ## 📊 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKo&show_icons=true&theme=transparent)
