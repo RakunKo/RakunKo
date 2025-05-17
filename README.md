@@ -25,7 +25,7 @@
 - Research Assistant Wireless Intelligent Networking Lab (WINL), Gachon University [prof.Joon Yoo] (2024.03~2024.12)
 
 ## 🎉 Award
-- KOREN-Digtal Net Challenge Camp : Silver Award 🥈
+- KOREN-Digtal Net Challenge Camp : Silver Award 🥈, KT Special Award
 - AAC Best Practice Contest : Excellence Award 🏅
 
 ## 👀 Contact
