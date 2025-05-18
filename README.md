@@ -29,5 +29,5 @@
 - AAC Best Practice Contest : Excellence Award 🏅
 
 ## 👀 Contact
-[![Tistory Blog](https://tistory-readme-go.vercel.app/tistory-badge/rakunko)](https://rakunko.tistory.com)
+[![Tistory Blog](https://tistory-readme-go.vercel.app/tistory-badge/rakunko/eb531f)](https://rakunko.tistory.com)
 - [Email](hgo84064@gmail.com)
