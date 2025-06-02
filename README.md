@@ -12,13 +12,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=&logoColor=white)
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+
 ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Liunx-FCC624?style=flat&logo=Linux&logoColor=white)
 
 ## 📊 Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakunKo&show_icons=true&theme=transparent)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kodari385)](https://solved.ac/{kodari385)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RakunKo&show_icons=true&theme=transparent" width="48%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kodari385" width="48%" />
+</p>
 
 ## 📎 Activity
 - Undergraduate Department AI•Software (Software), Gachon University (2020.03~ )
