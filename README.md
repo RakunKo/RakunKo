@@ -30,9 +30,13 @@
 - Research Assistant Wireless Intelligent Networking Lab (WINL), Gachon University [prof.Joon Yoo] (2024.03~2024.12)
 - Gachon Software Academy(Kakao Enterprise) 6th (2025.03~2025.09)
 
-## 🎉 Award
+## 🎉 Award & Certifications
 - KOREN-Digtal Net Challenge Camp : Silver Award 🥈, KT Special Award
 - AAC Best Practice Contest : Excellence Award 🏅
+ 
+<a href="https://www.credly.com/badges/3cbadfaa-6ddc-4777-8cfd-56f07e4e7e1b/public_url" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e903c6ce-6ec0-482c-80cd-e793943a9395" width="100" alt="AWS SAA Certificate">
+</a>
 
 ## 👀 Contact
 [![Tistory Blog](https://tistory-readme-go.vercel.app/tistory-badge/rakunko/eb531f)](https://rakunko.tistory.com)
