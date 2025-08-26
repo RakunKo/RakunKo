@@ -29,6 +29,7 @@
 - University Make Us 5th(Android), 6th(Spring Boot) (2023.09~2024.09)
 - Research Assistant Wireless Intelligent Networking Lab (WINL), Gachon University [prof.Joon Yoo] (2024.03~2024.12)
 - Gachon Software Academy(Kakao Enterprise) 6th (2025.03~2025.09)
+- Kakao Enterprise Cloud Platform Server Developer Intern (2025.09~ )
 
 ## 🎉 Award & Certifications
 - KOREN-Digtal Net Challenge Camp : Silver Award 🥈, KT Special Award
