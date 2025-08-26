@@ -34,6 +34,7 @@
 ## 🎉 Award & Certifications
 - KOREN-Digtal Net Challenge Camp : Silver Award 🥈, KT Special Award
 - AAC Best Practice Contest : Excellence Award 🏅
+- AWS Solution Architect Accosiate
  
 <a href="https://www.credly.com/badges/3cbadfaa-6ddc-4777-8cfd-56f07e4e7e1b/public_url" target="_blank">
   <img src="https://github.com/user-attachments/assets/e903c6ce-6ec0-482c-80cd-e793943a9395" width="100" alt="AWS SAA Certificate">
