@@ -32,9 +32,14 @@
 - Kakao Enterprise Cloud Platform Server Developer Intern (2025.09~ )
 
 ## 🎉 Award & Certifications
+### Award
 - KOREN-Digtal Net Challenge Camp : Silver Award 🥈, KT Special Award
 - AAC Best Practice Contest : Excellence Award 🏅
-- AWS Solution Architect Associate
+- Outstanding Student Certificate, Gachon SW Academy (Awarded by Gachon Univ)
+- Outstanding Student Certificate, Gachon SW Academy (Awarded by IITP)
+
+### Certifications
+- AWS Solutions Architect – Associate
  
 <a href="https://www.credly.com/badges/3cbadfaa-6ddc-4777-8cfd-56f07e4e7e1b/public_url" target="_blank">
   <img src="https://github.com/user-attachments/assets/e903c6ce-6ec0-482c-80cd-e793943a9395" width="100" alt="AWS SAA Certificate">
