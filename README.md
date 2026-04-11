@@ -29,7 +29,7 @@
 - University Make Us 5th(Android), 6th(Spring Boot) (2023.09~2024.09)
 - Research Assistant Wireless Intelligent Networking Lab ([WINL](https://sites.google.com/view/winl), Gachon University [prof.Joon Yoo] (2024.03~2024.12)
 - Gachon Software Academy(Kakao Enterprise) 6th (2025.03~2025.09)
-- Kakao Enterprise Cloud Platform Server Developer Intern (2025.09~ )
+- Kakao Enterprise Cloud Platform Server Developer Intern (2025.09~2025.11)
 
 ## 🎉 Award & Certifications
 ### Award
@@ -37,6 +37,7 @@
 - AAC Best Practice Contest : Excellence Award 🏅
 - Outstanding Student Certificate, Gachon SW Academy (Awarded by Gachon Univ)
 - Outstanding Student Certificate, Gachon SW Academy (Awarded by [IITP](https://www.iitp.kr/main.it))
+- Outstanding Intern of Kakao Enterprise 
 
 ### Certifications
 - AWS Solutions Architect – Associate
